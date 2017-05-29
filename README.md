@@ -7,3 +7,5 @@ The questions are picked random depending on the category.
 - Key bindings: q, w, e, r, i, u, space;
 - Jquery;
 - Ajax;
+
+Live preview: http://marmolada.ct8.pl/quiz/
